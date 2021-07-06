@@ -15,7 +15,7 @@ print(h.hexdigest())
 #%%
 
 #---------- Q2 ----------#
-# Write a program in python to genarate hashes of string data using 3 algorithms from hashlib
+# Write a program in python to generate hashes of string data using 3 algorithms from hashlib
 
 import hashlib
 import os
