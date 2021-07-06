@@ -1,7 +1,6 @@
 Hashing Algorithms in python
-Jul 2021
 
-Project descriptionThis is my first python project which I have completed during my 7 Days Bootcamp on Python and Network Security by ShapeAI. In this project, I have created a hashing algorithm using the hashlib library in python in which I have created,
+This is my first python project which I have completed during my 7 Days Bootcamp on Python and Network Security by ShapeAI. In this project, I have created a hashing algorithm using the hashlib library in python in which I have created,
 
 1. a program in python to generate the md5 hashed output of the string data given by the user.
 
